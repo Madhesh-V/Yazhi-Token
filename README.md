@@ -6,7 +6,7 @@
  
  # About Yazhi Coin
  
- Yazhi-Coin is a custom private cryptocurrency implemented using binance smart chain blockchain protocol and ERC-20, Developed By Madhesh Velu, This Coin Is Only created for education purpose. This project involves challenges like creating your own blockchain Network, distributing the blockchain over the network of nodes, mining blocks, transactions of cryptocurrency with additional security, creating smart contracts for your crypto distributions and transactions to ipfs..
+ Yazhi-Coin is a custom private cryptocurrency based on the Binance smart chain blockchain protocol and ERC-20, Developed By Madhesh Velu. This coin is only intended for education purposes. This project involves challenges like creating your own blockchain Network, distributing the blockchain over the network of nodes, mining blocks, transactions of cryptocurrency with additional security, creating smart contracts for your crypto distributions and transactions to ipfs..
  
  # MIT License
 
