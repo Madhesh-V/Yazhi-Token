@@ -674,23 +674,6 @@ abstract contract ServicePayer {
     }
 }
 
-// File: contracts/utils/GeneratorCopyright.sol
-
-
-
-pragma solidity ^0.8.0;
-
-contract GeneratorCopyright {
-    string private constant _GENERATOR = "https://www.smartcontracts.tools";
-
-    /**
-     * @dev Returns the token generator tool.
-     */
-    function generator() public pure returns (string memory) {
-        return _GENERATOR;
-    }
-}
-
 // File: contracts/token/BEP20/HelloBEP20.sol
 
 
