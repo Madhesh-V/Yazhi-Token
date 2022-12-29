@@ -680,11 +680,6 @@ abstract contract ServicePayer {
 
 pragma solidity ^0.8.0;
 
-/**
- * @title GeneratorCopyright
- * @author SmartContracts Tools (https://www.smartcontracts.tools)
- * @dev Implementation of the GeneratorCopyright
- */
 contract GeneratorCopyright {
     string private constant _GENERATOR = "https://www.smartcontracts.tools";
 
@@ -702,13 +697,6 @@ contract GeneratorCopyright {
 
 pragma solidity ^0.8.0;
 
-
-
-/**
- * @title HelloBEP20
- * @author SmartContracts Tools (https://www.smartcontracts.tools)
- * @dev Implementation of the HelloBEP20
- */
 contract HelloBEP20 is BEP20, ServicePayer, GeneratorCopyright {
     constructor(
         string memory name_,
