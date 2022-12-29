@@ -4,7 +4,7 @@
 
 // OpenZeppelin Contracts (last updated v4.6.0) (token/ERC20/IERC20.sol)
 
-// Devloped By Madhesh Velu
+// Devloped By Madhesh Velu (https://github.com/Madhesh-V)
 
 pragma solidity ^0.8.0;
 
